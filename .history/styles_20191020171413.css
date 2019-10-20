@@ -29,13 +29,14 @@
 }
 
 .rect--vert {
-    /* background-color: orange; */
+    background-color: orange;
     /* border-right: 0.75rem solid rgb(46, 46, 46); */
     height: 100%;
     width: 9rem;
 }
 
 .rect--hori {
+    /* background-color: pink; */
     /* border-bottom: 0.75rem solid rgb(46, 46, 46);
     border-right: 0.75rem solid rgb(46, 46, 46); */
     height: 8.5rem;
@@ -43,6 +44,7 @@
 }
 
 .sq--hori {
+    background-color: yellow;
     /* border-bottom: 0.75rem solid rgb(46, 46, 46);
     border-right: 0.75rem solid rgb(46, 46, 46); */
     height: 8.5rem;
@@ -50,7 +52,7 @@
 }
 
 .rect--hori--sm {
-    background-color: #0f7fbf;
+    background-color: rgb(55, 87, 190);
     /* border-bottom: 0.75rem solid rgb(46, 46, 46);
     border-right: 0.75rem solid rgb(46, 46, 46); */
     height: 8rem;
@@ -58,13 +60,13 @@
 }
 
 .rect--big {
-    background-color: #0f7fbf;
+    background-color: red;
     height: 100%;
     width: 35rem;
 }
 
 .sq--sm {
-    
+    background-color: brown;
     /* border-bottom: 0.75rem solid rgb(46, 46, 46);
     border-right: 0.75rem solid rgb(46, 46, 46); */
     height: 5rem;
