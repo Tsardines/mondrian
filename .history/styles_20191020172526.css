@@ -26,35 +26,48 @@
 
 .grid__bottom {
     display: flex;
-    height: 32%;
+    height: 32.7%;
 }
 
 .rect--vert {
+    /* background-color: orange; */
+    /* border-right: 0.75rem solid rgb(46, 46, 46); */
     height: 100%;
     width: 9rem;
 }
 
 .rect--hori {
+    /* border-bottom: 0.75rem solid rgb(46, 46, 46);
+    border-right: 0.75rem solid rgb(46, 46, 46); */
     height: 8.5rem;
     width: 17rem;
 }
 
 .sq--hori {
+    /* border-bottom: 0.75rem solid rgb(46, 46, 46);
+    border-right: 0.75rem solid rgb(46, 46, 46); */
     height: 8.5rem;
     width: 12rem;
 }
 
 .rect--hori--sm {
+    background-color: #0f7fbf;
+    /* border-bottom: 0.75rem solid rgb(46, 46, 46);
+    border-right: 0.75rem solid rgb(46, 46, 46); */
     height: 8rem;
     width: 12rem;
 }
 
 .rect--big {
+    background-color: #0f7fbf;
     height: 100%;
     width: 35rem;
 }
 
 .sq--sm {
+    
+    /* border-bottom: 0.75rem solid rgb(46, 46, 46);
+    border-right: 0.75rem solid rgb(46, 46, 46); */
     height: 5rem;
     width: 12rem;
 }
