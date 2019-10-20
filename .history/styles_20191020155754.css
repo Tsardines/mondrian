@@ -1,0 +1,16 @@
+#canvas {
+    border: 2rem solid black;
+    height: 56rem;
+}
+
+.canvas-first {
+    border: 2px solid red;
+}
+
+.canvas-first {
+    border: 2px solid orange;
+}
+
+.canvas-first {
+    border: 2px solid green;
+}

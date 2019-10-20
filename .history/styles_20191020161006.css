@@ -4,18 +4,13 @@
     height: 56rem;
 }
 
-.grid__container {
-    border: 1rem solid rgb(46, 46, 46);
-    height: 54rem;
-}
-
 .grid__top {
-    /* border: 3px solid red; */
+    border: 3px solid red;
     height: 32.7%;
 }
 
 .grid__middle {
-    border: 3px solid purple;
+    border: 3px solid orange;
     height: 32.7%;
 }
 
@@ -24,9 +19,9 @@
     height: 32.7%;
 }
 
-.top__rect--vert {
+.top__rect {
     background-color: orange;
-    border-right: 0.75rem solid rgb(46, 46, 46);
-    height: 100%;
+    /* border: 3px solid blue; */
+    height: 32.7%;
     width: 8rem;
 }
