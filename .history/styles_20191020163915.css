@@ -1,0 +1,65 @@
+#canvas {
+    border: 2rem solid black;
+    /* display: block; */
+    height: 56rem;
+    margin: 0 auto;
+    width: 80rem;
+}
+
+.grid__container {
+    border: 1rem solid rgb(46, 46, 46);
+    height: 54rem;
+}
+
+.grid__top {
+    /* border: 3px solid red; */
+    display: flex;
+    height: 32.7%;
+}
+
+.grid__middle {
+    border-bottom: 1rem solid rgb(46, 46, 46);
+    border-top: 1rem solid rgb(46, 46, 46);
+    height: 32.7%;
+}
+
+.grid__bottom {
+    height: 32.7%;
+}
+
+.rect--vert {
+    background-color: orange;
+    border-right: 0.75rem solid rgb(46, 46, 46);
+    height: 100%;
+    width: 11rem;
+}
+
+.rect--hori {
+    background-color: pink;
+    border-bottom: 0.75rem solid rgb(46, 46, 46);
+    border-right: 0.75rem solid rgb(46, 46, 46);
+    height: 8rem;
+    width: 17rem;
+}
+
+.sq--hori {
+    background-color: lightcoral;
+    border-bottom: 0.75rem solid rgb(46, 46, 46);
+    border-right: 0.75rem solid rgb(46, 46, 46);
+    height: 11rem;
+    width: 12rem;
+}
+
+.rect--hori--mini {
+    background-color: rgb(55, 87, 190);
+    border-bottom: 0.75rem solid rgb(46, 46, 46);
+    border-right: 0.75rem solid rgb(46, 46, 46);
+    height: 8rem;
+    width: 12rem;
+}
+
+.sq {
+    background-color: brown;
+    height: 10rem;
+    width: 11rem;
+}

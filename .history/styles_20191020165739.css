@@ -30,9 +30,9 @@
 
 .rect--vert {
     background-color: orange;
-    /* border-right: 0.75rem solid rgb(46, 46, 46); */
+    border-right: 0.75rem solid rgb(46, 46, 46);
     height: 100%;
-    width: 9rem;
+    width: 15rem;
 }
 
 .rect--hori {
@@ -67,8 +67,8 @@
 
 .sq--sm {
     background-color: brown;
-    /* border-bottom: 0.75rem solid rgb(46, 46, 46);
-    border-right: 0.75rem solid rgb(46, 46, 46); */
+    border-bottom: 0.75rem solid rgb(46, 46, 46);
+    border-right: 0.75rem solid rgb(46, 46, 46);
     height: 7rem;
     width: 12rem;
 }

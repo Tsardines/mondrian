@@ -12,14 +12,15 @@
 }
 
 .grid__top {
+    /* border: 3px solid red; */
     display: flex;
     height: 32.7%;
     justify-content: center;
 }
 
 .grid__middle {
-    border-bottom: 0.75rem solid rgb(46, 46, 46);
-    border-top: 0.75rem solid rgb(46, 46, 46);
+    border-bottom: 1rem solid rgb(46, 46, 46);
+    border-top: 1rem solid rgb(46, 46, 46);
     display: flex;
     height: 32.7%;
 }
@@ -30,31 +31,31 @@
 
 .rect--vert {
     background-color: orange;
-    /* border-right: 0.75rem solid rgb(46, 46, 46); */
+    border-right: 0.75rem solid rgb(46, 46, 46);
     height: 100%;
-    width: 9rem;
+    width: 12rem;
 }
 
 .rect--hori {
     background-color: pink;
-    /* border-bottom: 0.75rem solid rgb(46, 46, 46);
-    border-right: 0.75rem solid rgb(46, 46, 46); */
+    border-bottom: 0.75rem solid rgb(46, 46, 46);
+    border-right: 0.75rem solid rgb(46, 46, 46);
     height: 8.5rem;
     width: 17rem;
 }
 
 .sq--hori {
     background-color: lightcoral;
-    /* border-bottom: 0.75rem solid rgb(46, 46, 46);
-    border-right: 0.75rem solid rgb(46, 46, 46); */
+    border-bottom: 0.75rem solid rgb(46, 46, 46);
+    border-right: 0.75rem solid rgb(46, 46, 46);
     height: 10rem;
     width: 12rem;
 }
 
 .rect--hori--sm {
     background-color: rgb(55, 87, 190);
-    /* border-bottom: 0.75rem solid rgb(46, 46, 46);
-    border-right: 0.75rem solid rgb(46, 46, 46); */
+    border-bottom: 0.75rem solid rgb(46, 46, 46);
+    border-right: 0.75rem solid rgb(46, 46, 46);
     height: 8rem;
     width: 12rem;
 }
@@ -67,8 +68,8 @@
 
 .sq--sm {
     background-color: brown;
-    /* border-bottom: 0.75rem solid rgb(46, 46, 46);
-    border-right: 0.75rem solid rgb(46, 46, 46); */
+    border-bottom: 0.75rem solid rgb(46, 46, 46);
+    border-right: 0.75rem solid rgb(46, 46, 46);
     height: 7rem;
     width: 12rem;
 }
